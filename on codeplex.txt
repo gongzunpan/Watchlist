@@ -1,2 +1,0 @@
-http://unity.codeplex.com/
-http://sqlserversamples.codeplex.com/

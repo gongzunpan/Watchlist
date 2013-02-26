@@ -1,3 +1,0 @@
-http://code.google.com/p/mybatisnet/
-http://code.google.com/p/autofac/
-http://code.google.com/p/moq/
